@@ -7,4 +7,4 @@ A database that stores names using a hash table. The interface is displayed on t
 3. This creates a "record" executable. Run this. Type "record".
 
 # Screenshot
-
+![Demo Screenshot][hashtable_demo.png]
