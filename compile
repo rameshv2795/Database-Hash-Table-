@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc studentRecords.c validInput.c hashTable.c -o records
