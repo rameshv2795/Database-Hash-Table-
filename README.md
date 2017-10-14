@@ -1,5 +1,5 @@
 # Database-Hash-Table-
-A database that stores names using a hash table. The interface is displayed on the console.
+A database that stores names using a hash table. Collisions are handled with chaining. The interface is displayed on the console.
 
 # Running Program
 1. Navigate to the directory.
