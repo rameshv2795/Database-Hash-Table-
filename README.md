@@ -7,4 +7,4 @@ A database that stores names using a hash table. Collisions are handled with cha
 3. This creates a "record" executable. Run this. Type "record".
 
 # Screenshot
-![Demo Screenshot][hashtable_demo.png]
+![alt text](hashtable_demo.png "Console interface")
